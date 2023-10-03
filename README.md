@@ -1,2 +1,2 @@
-![Logo Spring Boot](https://spng.pngfind.com/pngs/s/53-535670_spring-framework-logo-spring-boot-hd-png-download.png)
+![Logo Spring Boot](https://www.qindel.com/wp-content/uploads/2023/04/spring-boot.jpeg)
 ## Lab-padroes-projeto-spring
